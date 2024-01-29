@@ -11,7 +11,7 @@ My name is Nikita. I'm a Software Engineer living in Toronto, Canada. I'm always
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-&nbsp;&nbsp;&nbsp;
+<br />
 ![frameworks](https://img.shields.io/static/v1?label=&message=frameworks:&color=0C1117&style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
@@ -25,7 +25,7 @@ My name is Nikita. I'm a Software Engineer living in Toronto, Canada. I'm always
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-&nbsp;&nbsp;&nbsp;
+<br />
 ![other](https://img.shields.io/static/v1?label=&message=other:&color=0C1117&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
