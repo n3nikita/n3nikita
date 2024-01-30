@@ -33,11 +33,12 @@ My name is Nikita. I'm a Software Engineer living in Toronto, Canada. I'm always
 ![nginx](https://img.shields.io/badge/-nginx-black?style=flat-square&logo=nginx)
 ![githubactions](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=githubactions)
 <br />
-
+<br />
+<br />
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3nikita&hide=pascal,javascript&layout=compact&theme=dark&border_radius=10&hide_border=true&bg_color=0C1117) -->
 
 <!-- ![n3nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3nikita&show_icons=true&theme=dark&hide_rank=true&border_radius=10&hide_border=true&bg_color=0C1117) -->
 
 
-![](https://komarev.com/ghpvc/?username=n3nikita&style=flat&color=000000&label=visits)
+![](https://komarev.com/ghpvc/?username=n3nikita&style=for-the-badge&color=000000&label=visits:)
